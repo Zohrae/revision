@@ -1,0 +1,12 @@
+{
+  "name": "revision",
+  "version": "1.0.0",
+  "description": "Projet de révision pour Jenkins",
+  "scripts": {
+    "test": "mocha \"test/**/*.js\""
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.0.0"
+  }
+}
